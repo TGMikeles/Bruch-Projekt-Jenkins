@@ -7,7 +7,7 @@ class Bruch(object):
 
     __version__ = '1.0'
 
-    __author__ = 'Oezsoy Ahmet'
+    __author__ = 'Ibrahim Keles'
     """
 
     def __init__(self, zaehler=0, nenner=1):
